@@ -4,7 +4,7 @@ I'm a passionate frontend developer who loves building performant and delightful
 
 - 🔭 Currently building modern web apps with a focus on clean architecture and developer experience
 - 🌱 Constantly learning about UI/UX, web performance, and modern frontend tooling
-- 📫 Reach me at: [salidwong@gmail.com](mailto:salidwong@gmail.com)
+- 📫 Reach me at: [wansanohj@gmail.com](mailto:wansanohj@gmail.com)
 - 🧠 Favorite stack: Next.js • TypeScript • React • Tailwind CSS
 
 ---
@@ -34,6 +34,6 @@ I'm a passionate frontend developer who loves building performant and delightful
 <a href="https://www.linkedin.com/in/salidwong" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:salidwong@gmail.com">
+<a href="mailto:wansanohj@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
