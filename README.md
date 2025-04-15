@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**salidwong/salidwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there! I'm Salidwong
 
-Here are some ideas to get you started:
+- 💻 I’m a web developer working with **Next.js**, **React**, and **TypeScript**
+- 🔭 Currently building something cool at XYZ Company
+- 📫 Reach me: salidwong@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+---
+
+### 📈 GitHub Stats
+![Salidwong's GitHub stats](https://github-readme-stats.vercel.app/api?username=salidwong&show_icons=true&theme=radical)
+
