@@ -3,8 +3,8 @@
 ### 👋 Hi there! I'm Salidwong
 
 - 💻 I’m a web developer working with **Next.js**, **React**, and **TypeScript**
-- 🔭 Currently building something cool at XYZ Company
-- 📫 Reach me: salidwong@gmail.com
+- 🔭 Currently building something cool at TheAble By King Power Company
+- 📫 Reach me: wansanohj@gmail.com
 
 ---
 
