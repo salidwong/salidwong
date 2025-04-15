@@ -14,8 +14,13 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
+
 ---
 
 ### 📈 GitHub Stats
 ![Salidwong's GitHub stats](https://github-readme-stats.vercel.app/api?username=salidwong&show_icons=true&theme=radical)
 
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salidwong&layout=compact&theme=tokyonight)
